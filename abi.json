@@ -1,0 +1,17 @@
+{
+  "inputs": [
+    {
+      "name": "ingreso",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "umbral",
+      "public": true,
+      "type": "field"
+    }
+  ],
+  "output": {
+    "type": "bool"
+  }
+}
